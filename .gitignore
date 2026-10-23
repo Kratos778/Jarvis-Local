@@ -1,0 +1,12 @@
+.env
+.env.local
+*.pem
+*.key
+.DS_Store
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ollama/
+models/
